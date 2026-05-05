@@ -9,6 +9,7 @@ out/
 .vite
 .astro/
 .vscode
+.vercel/
 
 # Local runtime data — auto-created by the daemon on first start.
 # Holds app.sqlite (project metadata), projects/<id>/ (per-project artifacts,
